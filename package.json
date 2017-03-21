@@ -1,0 +1,25 @@
+{
+  "name": "node-seed",
+  "version": "0.1.0",
+  "description": "Seed for Node projects.",
+  "author": "Daniela Sayuri Yassuda <danielayassuda@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielasy/node-seed"
+  },
+  "bugs": {
+    "url": "https://github.com/danielasy/node-seed/issues"
+  },
+  "keywords": [
+    "node",
+    "seed"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  },
+  "license": "MIT"
+}
